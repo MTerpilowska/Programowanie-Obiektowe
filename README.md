@@ -1,1 +1,1 @@
-# Programowanie-Obiektowe-
+# Symulacja życia bakterii na prostokątnej szalce
