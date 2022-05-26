@@ -1,1 +1,1 @@
-# Symulacja życia bakterii na prostokątnej szalce
+Symulacja życia bakterii na prostokątnej szalce
